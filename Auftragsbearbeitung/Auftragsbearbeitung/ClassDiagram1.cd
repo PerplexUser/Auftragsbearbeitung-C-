@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Auftragsbearbeitung.Auftragsbearbeitung">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAEAACAAABABAICAAAACAMw7AAAgwHAfAAAAQAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Auftragsbearbeitung.Form10">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIAQEAEAACAAABAAAACCIAASAAAIAAFgAkAAIAgBBAA=</HashCode>
+      <FileName>Form10.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Auftragsbearbeitung.Form11">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IABgAAkAACAAABAAABCCAAASAAIIAABgEkAAKAQADAA=</HashCode>
+      <FileName>Form11.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Auftragsbearbeitung.Form12">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IABAAAEAACAAABAABBCCAAASAAIIAABgGsAALAQQRAA=</HashCode>
+      <FileName>Form12.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Auftragsbearbeitung.Neukunde">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YCAAAAAAASAAABCAAACAAABCIAAIAAAAEEAAAAAAAAI=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Auftragsbearbeitung.Administration">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACAAABAAAACAAAACAAAIAAAAEEAAAAAAAAI=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Auftragsbearbeitung.Form4">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICAAAAAAACAAABAAAACAAABCAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>Form4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Auftragsbearbeitung.Form5">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YCAAAAFAASAAABCAABCAAABCIAAYAAACEGAAAAAAAII=</HashCode>
+      <FileName>Form5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Auftragsbearbeitung.Form6">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICAAAAFAACAAABAAABCAAABCIAAYAAACEGAAAAAAAAA=</HashCode>
+      <FileName>Form6.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Auftragsbearbeitung.Form7">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAkEBCBAABAgBQCAAAACAAIYABIAGHCAAAQECAA=</HashCode>
+      <FileName>Form7.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Auftragsbearbeitung.Form8">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICAAAAEACCAEABAAABCAAABCAAAIAAAAEkAAAAQACAA=</HashCode>
+      <FileName>Form8.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Auftragsbearbeitung.Form9">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICAAAAEACCACgBAAAACCAAASAAIYAANgGkAAIAQARAA=</HashCode>
+      <FileName>Form9.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Auftragsbearbeitung.Program">
+    <Position X="3.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Auftragsbearbeitung.Properties.Resources">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Auftragsbearbeitung.Properties.Settings">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
